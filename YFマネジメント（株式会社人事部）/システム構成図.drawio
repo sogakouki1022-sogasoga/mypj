@@ -1,0 +1,104 @@
+<mxfile host="65bd71144e">
+    <diagram name="システム構成図" id="system-config">
+        <mxGraphModel dx="1480" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="title" value="Y.Fマネジメント様 システム構成イメージ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="16" width="400" height="28" as="geometry"/>
+                </mxCell>
+                <mxCell id="left-box" value="名刺管理&#10;（Eight Team 等）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="113" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="left-data" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="162.5" y="178" width="55" height="36.67" as="geometry"/>
+                </mxCell>
+                <mxCell id="left-data-label" value="名刺データ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="220" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="center-box" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#f5f5f5;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="60" width="560" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="center-title" value="kintone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="68" width="460" height="21.23" as="geometry"/>
+                </mxCell>
+                <mxCell id="center-master" value="顧客マスタ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="110" width="160" height="56" as="geometry"/>
+                </mxCell>
+                <mxCell id="center-3b" value="活動管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="328" y="218" width="95" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="center-3b2" value="対応管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="433" y="218" width="95" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="center-3c" value="タスク管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="538" y="218" width="102" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="edge-m2b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="center-master" target="center-3b" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="edge-m2b2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="center-master" target="center-3b2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="edge-m2c" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="center-master" target="center-3c" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="right-note" value="（Phase3）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="770" y="30" width="140" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="right-1a" value="案件管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="78" width="120" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="right-1b" value="契約管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="128" width="120" height="38" as="geometry"/>
+                </mxCell>
+                <mxCell id="right-1c" value="売上管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="178" width="120" height="38" as="geometry"/>
+                </mxCell>
+                <mxCell id="right-accounting" value="会計ソフト&#10;（マネーフォワード）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="880" y="178" width="130" height="38" as="geometry"/>
+                </mxCell>
+                <mxCell id="right-2" value="日報&#10;（参照・集計）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="226" width="120" height="38" as="geometry"/>
+                </mxCell>
+                <mxCell id="edge-right1c-to-accounting" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#6c8ebf;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="right-1c" target="right-accounting" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="edge-right1c-to-accounting-label" value="連携" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#333333;" parent="edge-right1c-to-accounting" connectable="0">
+                    <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+                        <mxPoint x="5" y="-6" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="legend-title" value="【凡例】" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="322" width="50" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="phase1" value="Phase1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;" parent="1" vertex="1">
+                    <mxGeometry x="145" y="320" width="52" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="phase2" value="Phase2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=9;" parent="1" vertex="1">
+                    <mxGeometry x="207" y="320" width="52" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="phase3" value="Phase3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=9;" parent="1" vertex="1">
+                    <mxGeometry x="269" y="320" width="52" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="legend" value="顧客マスタ／部門・活動・対応・タスク／案件・契約・売上・日報（Phase3は将来）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="331" y="320" width="380" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="link-note-title" value="【kintone内の紐づけ】" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="352" width="120" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="link-note" value="顧客マスタ←活動・対応・タスク　／　案件管理←タスク・日報　／　案件→契約→売上" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#666666;spacingLeft=4;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="372" width="620" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="edge-left" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#6c8ebf;fontColor=#333333;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="left-box" target="center-master" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="edge-left-label" value="連携 or CSV" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#333333;" parent="edge-left" connectable="0">
+                    <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+                        <mxPoint x="5" y="-8" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
