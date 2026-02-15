@@ -1,0 +1,676 @@
+<mxfile host="65bd71144e">
+    <diagram name="1.表紙" id="page-cover">
+        <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="sub1" value="kintone を軸にした" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=14;fontColor=#555555;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="100" width="600" height="28" as="geometry"/>
+                </mxCell>
+                <mxCell id="sub2" value="顧客・営業の部門横断管理のご提案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=14;fontColor=#555555;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="128" width="600" height="28" as="geometry"/>
+                </mxCell>
+                <mxCell id="title" value="kintone 導入支援のご提案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=32;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="200" width="700" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="client" value="株式会社Y.Fマネジメント 御中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="300" width="500" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="footer-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#cccccc;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="420" width="560" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="footer-left" value="株式会社○○（提案者名）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="438" width="240" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="footer-right" value="ロゴマーク" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=11;fontColor=#999999;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="438" width="200" height="24" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="2.目次" id="page-toc">
+        <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-num" value="目次" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;fontSize=12;fontColor=#333333;spacingRight=24;" parent="1" vertex="1">
+                    <mxGeometry x="900" width="300" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="toc-title" value="目次" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="72" width="200" height="32" as="geometry"/>
+                </mxCell>
+                <mxCell id="toc1" value="1. はじめに" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="112" width="480" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="toc2" value="2. 貴社概要" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="138" width="480" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="toc3" value="3. 提案方針（結論）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="164" width="480" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="toc4" value="4. 現状の課題" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="190" width="480" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="toc5" value="5. 解決策" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="216" width="480" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="toc6" value="6. なぜ2段階で進めるか" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="242" width="480" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="toc7" value="7. システム構成イメージ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;spacingLeft=8;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="268" width="480" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="toc8" value="8. フェーズとスコープ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;spacingLeft=8;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="294" width="480" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="toc9" value="9. 概算（目安）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;spacingLeft=8;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="320" width="480" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="toc10" value="10. 次のステップ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;spacingLeft=8;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="346" width="480" height="26" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="3.1.はじめに" id="page-intro">
+        <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-num" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=36;fontColor=#0284c7;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="56" width="56" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-title" value="はじめに" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="56" width="400" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="title-underline" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0284c7;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="102" width="120" height="3" as="geometry"/>
+                </mxCell>
+                <mxCell id="lead" value="株式会社人事部様を通じ、貴社の業務改善・システム見直しのご相談をいただき、打ち合わせを実施しました。kintone を軸にした顧客・営業の一元管理という方向性で認識を合わせています。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#555555;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="118" width="1040" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="box-purpose" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=1;align=left;verticalAlign=top;spacingLeft=16;spacingTop=12;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="172" width="1040" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="box-purpose-title" value="この資料の目的と、次にやること" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=13;spacingLeft=12;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="172" width="1040" height="28" as="geometry"/>
+                </mxCell>
+                <mxCell id="p1" value="・この資料の目的：方針・スコープ・概算の目安を整理し、ご検討・ご質問いただくためです。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry x="96" y="206" width="1008" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="p2" value="・次にやること：① 提案資料の作成（本資料） ② 概算の共有（本資料内）。正式な見積は、スコープが確定したあとに別途作成します。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry x="96" y="234" width="1008" height="24" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="4.2.貴社概要" id="page-company">
+        <mxGraphModel dx="1081" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-num" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=36;fontColor=#0284c7;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="56" width="56" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-title" value="貴社概要（打合せ時点の整理）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="56" width="400" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="title-underline" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0284c7;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="102" width="280" height="3" as="geometry"/>
+                </mxCell>
+                <mxCell id="th1" value="項目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="118" width="160" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="th2" value="内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="118" width="880" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="r1a" value="社名" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="154" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="r1b" value="株式会社Y.Fマネジメント 様" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="154" width="880" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="r2a" value="事業概要" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="194" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="r2b" value="司法書士・税理士・社労士・不動産調査士など、複数の士業部門を展開するグループ企業" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="194" width="880" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="r3a" value="組織規模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="234" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="r3b" value="約7部門／グループ内 約8法人、総勢約300名（BtoB部門 約60名を先行対象とする想定）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="234" width="880" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="r4a" value="特徴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="274" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="r4b" value="グループ＝複数法人の集合。概念としては「一社」として横断管理したいニーズ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="274" width="880" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="5.3.提案方針（結論）" id="page-policy">
+        <mxGraphModel dx="1081" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-num" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=36;fontColor=#0284c7;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="56" width="56" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-title" value="提案方針（結論）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="56" width="400" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="title-underline" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0284c7;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="102" width="200" height="3" as="geometry"/>
+                </mxCell>
+                <mxCell id="box1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;strokeWidth=1;align=left;verticalAlign=top;spacingLeft=20;spacingTop=14;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="120" width="1040" height="88" as="geometry"/>
+                </mxCell>
+                <mxCell id="box1-t" value="まずは「顧客管理をしっかりできるところまで」" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=13;spacingLeft=12;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="120" width="1040" height="28" as="geometry"/>
+                </mxCell>
+                <mxCell id="box1-c" value="名刺・顧客マスタ・接点（活動・対応）の一元化と、タスク管理までを一つの区切りとし、「誰が何をしているか」が見える状態を目指します。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry x="96" y="152" width="1008" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="box2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;strokeWidth=1;align=left;verticalAlign=top;spacingLeft=20;spacingTop=14;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="220" width="1040" height="76" as="geometry"/>
+                </mxCell>
+                <mxCell id="box2-t" value="案件・契約・売上・会計連携は「慣れたあと」に" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=13;spacingLeft=12;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="220" width="1040" height="28" as="geometry"/>
+                </mxCell>
+                <mxCell id="box2-c" value="kintone への入力に慣れたあとに実施する想定です。土台を固めてから追加することで、定着しやすくし、投資の段階化も図ります。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry x="96" y="252" width="1008" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="note" value="ノーコード・低コストでの改善を重視した設計です。" style="text;html=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#555555;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="312" width="1040" height="24" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="6.4.現状の課題" id="page-issue">
+        <mxGraphModel dx="1081" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-num" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=36;fontColor=#0284c7;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="56" width="56" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-title" value="現状の課題（打合せでお伺いした内容）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="56" width="500" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="title-underline" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0284c7;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="102" width="320" height="3" as="geometry"/>
+                </mxCell>
+                <mxCell id="lead" value="複数部門・複数法人で運営されるなか、顧客や接点の情報が部門単位で分散しており、グループ全体で「誰がどこを担当しているか」「どこに売上があるか」を把握しづらい状況とお聞きしています。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#555555;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="112" width="1040" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="th1" value="分類" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="156" width="140" height="32" as="geometry"/>
+                </mxCell>
+                <mxCell id="th2" value="課題" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="156" width="900" height="32" as="geometry"/>
+                </mxCell>
+                <mxCell id="r1a" value="情報の分断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#b91c1c;fontSize=10;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="188" width="140" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="r1b" value="各部門が独立運営のため、顧客・営業情報が部門ごとにバラバラで、横串で検索・参照できない。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="188" width="900" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="r2a" value="ツールの混在" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#b91c1c;fontSize=10;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="240" width="140" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="r2b" value="顧客管理は Excel・一部専用システム等が混在。名刺も部門ごとに個別管理で一元化されていない。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="240" width="900" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="r3a" value="属人化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#b91c1c;fontSize=10;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="292" width="140" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="r3b" value="接点履歴が個人に依存し、グループ全体で「誰がどこと接点を持っているか」が見えない。担当者がいないと情報がたどれない。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="292" width="900" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="r4a" value="重複・機会損失" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#b91c1c;fontSize=10;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="344" width="140" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="r4b" value="他部門ですでに訪問している企業に気づかず訪問するなど、営業資産が活かしきれていない。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="344" width="900" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="r5a" value="既存ツール" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#b91c1c;fontSize=10;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="396" width="140" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="r5b" value="マネーフォワード、rakumo、Eight Team 等が点在。将来的な連携を考慮したいが、現状は手作業になりがち。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="396" width="900" height="52" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="7.5.解決策" id="page-solution">
+        <mxGraphModel dx="1081" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-num" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=36;fontColor=#0284c7;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="56" width="56" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-title" value="解決策（ご提案の方向性）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="56" width="400" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="title-underline" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0284c7;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="102" width="280" height="3" as="geometry"/>
+                </mxCell>
+                <mxCell id="th1" value="課題" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="118" width="200" height="32" as="geometry"/>
+                </mxCell>
+                <mxCell id="th2" value="解決策（kintone で実現するイメージ）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="118" width="840" height="32" as="geometry"/>
+                </mxCell>
+                <mxCell id="r1a" value="情報の分断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="150" width="200" height="56" as="geometry"/>
+                </mxCell>
+                <mxCell id="r1b" value="法人番号をキーにした顧客（法人）ベースのデータベースを kintone 上で整備し、グループ横断で一覧・検索できるようにする。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="150" width="840" height="56" as="geometry"/>
+                </mxCell>
+                <mxCell id="r2a" value="ツールの混在" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="206" width="200" height="56" as="geometry"/>
+                </mxCell>
+                <mxCell id="r2b" value="顧客マスタを kintone で構築。名刺は Eight 連携 or CSV で取込めるようにし、顧客管理・名刺を一元化する。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="206" width="840" height="56" as="geometry"/>
+                </mxCell>
+                <mxCell id="r3a" value="属人化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="262" width="200" height="56" as="geometry"/>
+                </mxCell>
+                <mxCell id="r3b" value="顧客に紐づいた活動・問い合わせ・クレームを一元管理し、部門長も確認できる形で蓄積。「誰がどこと接点を持っているか」をグループ全体で見えるようにする。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="262" width="840" height="56" as="geometry"/>
+                </mxCell>
+                <mxCell id="r4a" value="重複・機会損失" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="318" width="200" height="56" as="geometry"/>
+                </mxCell>
+                <mxCell id="r4b" value="接点・活動の一元管理で「どこに誰が訪問したか」が分かる形にする。売上・会計連携は次のフェーズで検討する。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="318" width="840" height="56" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="8.6.なぜ2段階で進めるか" id="page-twophase">
+        <mxGraphModel dx="1081" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-num" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=36;fontColor=#0284c7;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="56" width="56" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-title" value="なぜ2段階で進めるか" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="56" width="400" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="title-underline" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0284c7;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="102" width="260" height="3" as="geometry"/>
+                </mxCell>
+                <mxCell id="th1" value="観点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="118" width="160" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="th2" value="説明" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="118" width="880" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="r1a" value="土台の整備" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="154" width="160" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="r1b" value="案件・売上はすべて「どの顧客か」に紐づく。まず顧客マスタと接点を整え、顧客単位で情報が蓄積される状態にしてから、案件・売上・会計を紐づける方が二度手間がない。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="154" width="880" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="r2a" value="習慣づくり" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="226" width="160" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="r2b" value="複数部門・約60名が対象のため、Phase1 で「顧客と接点を記録する」習慣をつけていただき、そのうえで Phase2 を追加する方が定着しやすく、リスクも分散できる。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="226" width="880" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="r3a" value="投資の段階化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="298" width="160" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="r3b" value="Phase1 で効果を確認したうえで Phase2 の範囲と予算を決めていただく形にし、負担と成果のバランスを取りやすくする。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="298" width="880" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="phase-title" value="Phase の整理" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="388" width="200" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="p1-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;strokeWidth=1;align=left;verticalAlign=top;spacingLeft=16;spacingTop=10;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="416" width="1040" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="p1-label" value="Phase1" style="text;html=1;strokeColor=none;fillColor=#b45309;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;spacingLeft=12;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="416" width="80" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="p1-c" value="顧客管理をしっかり（タスク管理まで）。名刺・顧客マスタ・接点の一元化とタスク管理・日報を構築。「誰が何をしているか」が見える状態を目指す。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry x="96" y="444" width="1008" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="p2-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;strokeWidth=1;align=left;verticalAlign=top;spacingLeft=16;spacingTop=10;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="500" width="1040" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="p2-label" value="Phase2" style="text;html=1;strokeColor=none;fillColor=#15803d;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;spacingLeft=12;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="500" width="80" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="p2-c" value="kintone に慣れたあとに実施。案件管理・契約管理・売上管理の構築と、マネーフォワード等との会計連携を検討する。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry x="96" y="528" width="1008" height="36" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="9.7.システム構成イメージ" id="page-system">
+        <mxGraphModel dx="1081" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-num" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=36;fontColor=#0284c7;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="48" width="56" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-title" value="システム構成イメージ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="48" width="400" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="lead" value="法人番号を共通キーにし、名刺・顧客マスタ・活動・対応・タスク・日報を横串で参照できる形を目指します。Phase1 で土台を構築し、慣れたあとに Phase2 で案件・契約・売上・会計連携を追加します。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#555555;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="100" width="1000" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="box-phase1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbf0;strokeColor=#b45309;strokeWidth=2;dashed=1;dashPattern=6 6;opacity=80;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
+                    <mxGeometry x="218" y="128" width="522" height="198" as="geometry"/>
+                </mxCell>
+                <mxCell id="box-phase1-lbl" value="Phase 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;fontStyle=1;fontSize=10;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="225" y="132" width="72" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="box-phase2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f9f0;strokeColor=#15803d;strokeWidth=2;dashed=1;dashPattern=6 6;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;opacity=70;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="332" width="520" height="188" as="geometry"/>
+                </mxCell>
+                <mxCell id="box-phase2-lbl" value="Phase 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;fontStyle=1;fontSize=10;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="229" y="332" width="68" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-name" value="名刺管理&#10;（Eight Team）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=11;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="158" width="160" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-customer" value="顧客管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;fontStyle=1;fontSize=11;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="153" width="100" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-act" value="活動管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;fontSize=10;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="385" y="260" width="90" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-cor" value="対応管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;fontSize=10;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="260" width="90" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-task" value="タスク管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;fontSize=10;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="605" y="260" width="100" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-case" value="案件管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;fontSize=10;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="361" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#0284c7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p3-name" target="p3-customer" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-e1-lbl" value="連携 or CSV" style="edgeLabel;html=1;align=center;verticalAlign=middle;fontSize=9;" parent="p3-e1" connectable="0">
+                    <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+                        <mxPoint x="6" y="-6" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="p3-contract" value="契約管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;fontSize=10;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="361" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-sales" value="売上管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;fontSize=10;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="605" y="361" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-mf" value="会計ソフト&#10;（マネーフォワード）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=10;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="590" y="450" width="130" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3-customer" target="p3-act" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3-customer" target="p3-cor" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-e4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3-customer" target="p3-task" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="p3-e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3-sales" target="p3-mf" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="desc-panel" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#0284c7;strokeWidth=1;align=left;verticalAlign=top;spacingLeft=12;spacingTop=8;" parent="1" vertex="1">
+                    <mxGeometry x="750" y="136" width="420" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="desc-title" value="各アプリの説明" style="text;html=1;strokeColor=none;fillColor=#e0f2fe;align=left;verticalAlign=middle;fontStyle=1;fontSize=12;spacingLeft=12;" parent="1" vertex="1">
+                    <mxGeometry x="750" y="136" width="280" height="28" as="geometry"/>
+                </mxCell>
+                <mxCell id="desc1" value="【名刺管理】名刺データの一元管理。Eight連携 or CSVで顧客マスタへ取込。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#333333;spacingLeft=4;spacingTop=2;" parent="1" vertex="1">
+                    <mxGeometry x="762" y="170" width="256" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="desc2" value="【顧客管理】法人番号ベースの顧客マスタ。活動・対応・タスクの起点。部門別情報を保持。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#333333;spacingLeft=4;spacingTop=2;" parent="1" vertex="1">
+                    <mxGeometry x="762" y="208" width="256" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="desc3" value="【活動管理】訪問・商談など営業活動の記録。顧客に紐づけて蓄積。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#333333;spacingLeft=4;spacingTop=2;" parent="1" vertex="1">
+                    <mxGeometry x="762" y="246" width="256" height="32" as="geometry"/>
+                </mxCell>
+                <mxCell id="desc4" value="【対応管理】問い合わせ・クレーム等の対応履歴。顧客に紐づけて管理。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#333333;spacingLeft=4;spacingTop=2;" parent="1" vertex="1">
+                    <mxGeometry x="762" y="280" width="256" height="32" as="geometry"/>
+                </mxCell>
+                <mxCell id="desc5" value="【タスク管理】部門別タスク。「いつまでに何をやるか」を可視化。顧客・案件に紐づけ可能。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#333333;spacingLeft=4;spacingTop=2;" parent="1" vertex="1">
+                    <mxGeometry x="762" y="314" width="256" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="desc6" value="【案件管理】商談〜成約までの案件を管理。契約・売上へ連結（Phase2）。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#333333;spacingLeft=4;spacingTop=2;" parent="1" vertex="1">
+                    <mxGeometry x="762" y="352" width="256" height="32" as="geometry"/>
+                </mxCell>
+                <mxCell id="desc7" value="【契約管理】契約内容の管理。案件・売上と紐づけ。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#333333;spacingLeft=4;spacingTop=2;" parent="1" vertex="1">
+                    <mxGeometry x="762" y="386" width="256" height="28" as="geometry"/>
+                </mxCell>
+                <mxCell id="desc8" value="【売上管理】売上データの管理。マネーフォワードへ連携（Phase2）。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#333333;spacingLeft=4;spacingTop=2;" parent="1" vertex="1">
+                    <mxGeometry x="762" y="416" width="256" height="28" as="geometry"/>
+                </mxCell>
+                <mxCell id="desc9" value="【会計ソフト】既存のマネーフォワード。売上データの連携先。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontColor=#333333;spacingLeft=4;spacingTop=2;" parent="1" vertex="1">
+                    <mxGeometry x="762" y="446" width="256" height="28" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="10.8.フェーズとスコープ" id="page-phase">
+        <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-num" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=36;fontColor=#0284c7;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="48" width="56" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-title" value="フェーズとスコープ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="48" width="400" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="lead" value="Phase1 で目指す状態・Phase2 で目指す状態、およびスコープの境界を整理しました。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#555555;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="100" width="1000" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="step1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;strokeWidth=1;align=left;verticalAlign=top;spacingLeft=16;spacingTop=10;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="140" width="1040" height="188" as="geometry"/>
+                </mxCell>
+                <mxCell id="step1-label" value="Phase 1　名刺連携・顧客管理・接点履歴・タスク管理・日報まで" style="text;html=1;strokeColor=none;fillColor=#b45309;fillColor2=#fffbeb;align=left;verticalAlign=middle;fontStyle=1;fontSize=13;gradientDirection=south;spacingLeft=12;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="140" width="1040" height="28" as="geometry"/>
+                </mxCell>
+                <mxCell id="step1-content" value="目指すもの&#10;・法人番号ベースでグループ横断の顧客・営業情報を一覧できる状態&#10;・名刺の一元管理（Eight連携 or CSV）&#10;・顧客に紐づいた部門別情報・活動・問い合わせ・クレームを蓄積し、部門長も確認できる状態&#10;・部門別タスク管理・日報連携・表示により「誰が何をしているか」が見える状態&#10;・権限設計を反映した運用。データ移行・研修まで完了し運用開始できる状態" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;spacingLeft=20;spacingTop=4;" parent="1" vertex="1">
+                    <mxGeometry x="96" y="172" width="1008" height="148" as="geometry"/>
+                </mxCell>
+                <mxCell id="step2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;strokeWidth=1;align=left;verticalAlign=top;spacingLeft=16;spacingTop=10;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="340" width="1040" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="step2-label" value="Phase 2　案件・契約・売上・会計連携" style="text;html=1;strokeColor=none;fillColor=#15803d;align=left;verticalAlign=middle;fontStyle=1;fontSize=13;spacingLeft=12;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="340" width="1040" height="28" as="geometry"/>
+                </mxCell>
+                <mxCell id="step2-content" value="目指すもの&#10;・案件管理・契約管理・売上管理アプリを顧客に紐づけて構築&#10;・マネーフォワード等との会計連携（API 可否は要確認）&#10;・テスト・納品・研修まで完了し運用開始できる状態" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;spacingLeft=20;spacingTop=4;" parent="1" vertex="1">
+                    <mxGeometry x="96" y="372" width="1008" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ar1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#999999;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="step1" target="step2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="note" value="※ Phase2 は要件確定後に別途見積もりとなります。" style="text;html=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="460" width="480" height="22" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="11.9.概算（目安）" id="page-estimate">
+        <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-num" value="9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=36;fontColor=#0284c7;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="48" width="56" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-title" value="概算（目安）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="48" width="400" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="lead" value="打ち合わせを踏まえた概算の目安です。正式な見積は、スコープ確定後に別途作成します。税別表記です。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#555555;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="100" width="1000" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="th1" value="フェーズ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="132" width="100" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="th2" value="項目概要" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="132" width="720" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="th3" value="お見積り額（税別）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="900" y="132" width="220" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="r1a" value="Phase1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fffbeb;strokeColor=#b45309;fontSize=10;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="168" width="100" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="r1b" value="顧客管理（CRM）・名刺一元化・部門別情報・活動・対応、タスク管理・日報の見える化、権限設計、データ移行・研修" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="168" width="720" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="r1c" value="300万円くらい" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=11;fontStyle=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="900" y="168" width="220" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="r2a" value="Phase2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;fontSize=10;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="216" width="100" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="r2b" value="案件管理・契約管理・売上管理の構築、会計連携（マネーフォワード等）、テスト・納品・研修" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=10;align=left;spacingLeft=8;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="216" width="720" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="r2c" value="プラス150万円くらい" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e2e8f0;fontSize=11;fontStyle=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="900" y="216" width="220" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="tota" value="合計" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontStyle=1;fontSize=11;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="264" width="100" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="totb" value="Phase1 のみ 300万。Phase2 まで実施する場合は 450万程度を想定。正式見積は別途。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="264" width="720" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="totc" value="300万円〜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=12;fontStyle=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="900" y="264" width="220" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="note-title" value="留意事項" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="324" width="80" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="note-txt" value="・金額表示はすべて税別です。&#10;・詳細要件確定後に正式見積を提出します。本見積は目安であり、範囲変更により変動する場合があります。" style="text;html=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#666666;align=left;spacingLeft=4;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="348" width="1040" height="52" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="12.10.次のステップ" id="page-next">
+        <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1200" pageHeight="720" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hdr" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f9ff;strokeColor=#0284c7;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry width="1200" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="hdr-left" value="kintone 導入支援" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#333333;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry width="400" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-num" value="10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=36;fontColor=#0284c7;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="48" width="56" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="sec-title" value="次のステップ（案）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="152" y="48" width="400" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="lead" value="ご検討のうえ、以下の流れで進めさせていただければ幸いです。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#555555;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="100" width="1000" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="s1" value="1. 本資料の内容について、ご質問・ご希望のすり合わせ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=12;align=left;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="148" width="640" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="s2" value="2. Phase1 の詳細スコープの確定（名刺連携仕様、顧客マスタ項目、タスク・日報の範囲、部門別の違い など）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=12;align=left;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="220" width="640" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="s3" value="3. スコープ確定後、正式見積・スケジュールの提示（Phase2 は別途見積）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=12;align=left;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="292" width="640" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="s4" value="4. 契約・キックオフの調整" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=12;align=left;spacingLeft=24;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="364" width="640" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="ar1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#0284c7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s1" target="s2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ar2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#0284c7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s2" target="s3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ar3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#0284c7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s3" target="s4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
